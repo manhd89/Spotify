@@ -1,6 +1,5 @@
 {
   "patch_list": [
-    { "app_name": "spotify", "source": "revanced" },
-    { "app_name": "spotify", "source": "revanced-dev" }
+    { "app_name": "spotify", "source": "revanced" }
   ]
 }
